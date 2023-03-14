@@ -45,6 +45,6 @@
     SetHtmlCollectionStyle(bodyArray,"color: #3A3B3C;");
     SetHtmlCollectionStyle(codeArray,"background: #f5f5f5; color: #3A3B3C !important;");
     SetHtmlCollectionStyle(preArray,"background: #f5f5f5;");
-    SetHtmlCollectionStyle(aArray,"color: black;");
+    SetHtmlCollectionStyle(aArray,"color: #25aae1;");
     SetHtmlCollectionStyle(jumbotronArray,"background-color: #eee;");
 })();
